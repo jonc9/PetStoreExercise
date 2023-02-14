@@ -1,0 +1,15 @@
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\bin\Debug\net6.0\JonCundiff_PetStore_ClassExercise.exe
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\bin\Debug\net6.0\JonCundiff_PetStore_ClassExercise.deps.json
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\bin\Debug\net6.0\JonCundiff_PetStore_ClassExercise.runtimeconfig.json
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\bin\Debug\net6.0\JonCundiff_PetStore_ClassExercise.dll
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\bin\Debug\net6.0\JonCundiff_PetStore_ClassExercise.pdb
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.csproj.AssemblyReference.cache
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.AssemblyInfoInputs.cache
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.AssemblyInfo.cs
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.dll
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\refint\JonCundiff_PetStore_ClassExercise.dll
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.pdb
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\JonCundiff_PetStore_ClassExercise.genruntimeconfig.cache
+C:\Users\JonC\Desktop\CODE_LOUISVILLE\C# Exercises\JonCundiff_PetStore_ClassExercise\obj\Debug\net6.0\ref\JonCundiff_PetStore_ClassExercise.dll
